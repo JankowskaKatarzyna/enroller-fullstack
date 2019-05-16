@@ -8,6 +8,7 @@
     <input type="password" v-model="user.password">
     <button type="submit">{{ labelOfTheButton }}</button>
   </form>
+
 </template>
 
 <script>
